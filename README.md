@@ -4,6 +4,9 @@ Board games have been making a comeback lately, and deeper, more strategic board
 
 In this project, we'll be working with a dataset that contains 80000 board games and their associated review scores. The data was scraped from BoardGameGeek and compiled into CSV format by [Sean Beck](https://github.com/ThaWeatherman/scrapers/blob/master/boardgamegeek/games.csv). 
 
+## Context 
+This project is part of Dataquest.io guided projects. Datasets were provided and we were asked to make data exploration in Jupyter Notebook. Each project were constituted of 6 to 8 steps of exploration, analysis, visualization and sometimes machine learning algorithm implementation. Additional steps were given at the end of each project to advance our exploration. The text cells between each code cells are part of the instructions that were provided. It is slightly retouched. For example, instead of 'you', it has been replace by 'we' to improve readability. 
+
 ## Install
 This project requires Python 3 and the following Python libraries installed:
 
